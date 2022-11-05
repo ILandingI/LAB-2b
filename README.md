@@ -1,5 +1,5 @@
 ### `/lab2b/part01/link`
-https:/
+https://github.com/ILandingI/LAB-2b/blob/9b7e0bd146e4dff40c903dca9168958c38cf3565/Part%201.c
 ### `/lab2b/part01/status`
 complete
 ### `/lab2b/part02/link`
