@@ -1,19 +1,19 @@
 ### `/lab2b/part01/link`
 https://github.com/ILandingI/LAB-2b/blob/9b7e0bd146e4dff40c903dca9168958c38cf3565/Part%201.c
 ### `/lab2b/part01/status`
-complete
+Complete
 ### `/lab2b/part02/link`
 https://github.com/ILandingI/LAB-2b/blob/76dc88017224b7dc1e500394df9101ea54b3358f/part%202.c
 ### `/lab2b/part02/status`
-almost complete
+Almost complete
 ### `/lab2b/part03/link`
-https:/
+/NA
 ### `/lab2b/part03/status`
-in-progress
+In-progress
 ### `/lab2b/part04/link`
-https:/
+/NA
 ### `/lab2b/part04/status`
-not-started
+In-progress
 ### `/lab2b/part05/link`
 https:
 ### `/lab2b/part05/status`
